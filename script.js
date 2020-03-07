@@ -262,7 +262,7 @@ function errorMessage(err) {
 }
 function cleardata() {
   var tbl = document.getElementById("x");
-  if (tbl.rows.length == 1) {
+  if (tbl.rows.length == 0) {
     alert("Sorry!! The cart is empty ");
   } else {
     alert("Thank You for purchasing ^_^");
