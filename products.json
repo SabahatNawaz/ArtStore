@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Painting 1",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "img": "img1.jpg",
+    "price": 12.34
+  },
+  {
+    "id": 2,
+    "title": "Painting 2",
+    "desc": "Quisquam, veritatis, officia. Veritatis, saepe!",
+    "img": "img2.jpg",
+    "price": 43.21
+  },
+  {
+    "id": 3,
+    "title": "Painting 3",
+    "desc": "Fugit dolorum consequatur rem molestiae, possimus dignissimos!",
+    "img": "img3.jpg",
+    "price": 45.67
+  },
+  {
+    "id": 4,
+    "title": "Painting 4",
+    "desc": "Fugit dolorum consequatur rem molestiae, possimus dignissimos!",
+    "img": "img4.jpg",
+    "price": 78.9
+  },
+  {
+    "id": 5,
+    "title": "Painting 5",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "img": "img5.jpg",
+    "price": 76.54
+  },
+  {
+    "id": 6,
+    "title": "Painting 6",
+    "desc": "Earum deleniti modi dolore cum, animi minima, saepe placeat, debitis mollitia veniam.",
+    "img": "img6.jpg",
+    "price": 23.45
+  },
+  {
+    "id": 7,
+    "title": "Painting 7",
+    "desc": "Earum deleniti modi dolore cum, animi minima, saepe placeat, debitis mollitia veniam.",
+    "img": "img6.jpg",
+    "price": 67.45
+  },
+  {
+    "id": 8,
+    "title": "Painting 8",
+    "desc": "Earum deleniti modi dolore cum, animi minima, saepe placeat, debitis mollitia veniam.",
+    "img": "img6.jpg",
+    "price": 90.45
+  }
+]

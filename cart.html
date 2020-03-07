@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ONLINE GALLERY</title>
+    <meta name="description" />
+    <meta name="author" />
+    <link href="bootstrap.min.css" rel="stylesheet" />
+    <link href="style1.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="topnav">
+      <a id="un"></a>
+      <a href="index.html">Home</a>
+      <a
+        href="#cart"
+        class="active"
+        style="align-content: left; position:left; text-align: left; float:left;"
+        ><img src="icon.png" id="icon" width="10%" height="10%"
+      /></a>
+      <a
+        href="login.html"
+        style="align-content: right; position:right; text-align: right; float:right;"
+        >Logout</a
+      >
+    </div>
+    <table id="x" border="1 " width="100%">
+      <tr>
+        <td>
+          <main>
+            <section id="cart"></section>
+          </main>
+        </td>
+      </tr>
+    </table>
+
+    <a href="index.html"
+      ><input
+        id="checkout"
+        value="Check Out"
+        type="button"
+        onclick="cleardata()"
+        style=" 
+      border: 1px solid cornflowerblue;
+      max-width: 200px;
+      width: 100%;
+      background: #28197a;
+      color: #f9f9f9;
+      border: 100%;
+      font-size: 1rem;
+      padding: 0 0.5rem;
+      text-transform: uppercase;
+      align-content: center;
+      cursor: pointer;
+      line-height: 1.5rem;
+    "
+    /></a>
+    <script src="script.js"></script>
+  </body>
+</html>
